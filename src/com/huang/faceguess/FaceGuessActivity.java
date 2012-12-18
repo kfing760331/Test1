@@ -29,7 +29,14 @@ public class FaceGuessActivity extends Activity {
         main = this;
         setTitle("esd");
         setTitle("");
-        setTitle("");
+        setTitle("123");
+        setTitle("4565");
+        setTitle("4565");
+        setTitle("4565");
+        setTitle("4565");
+        setTitle("4565");
+        
+
         setTitle("123");
         //imageview Resources
         imgR = new int[]{R.id.imageView1,R.id.imageView2,R.id.imageView3};
